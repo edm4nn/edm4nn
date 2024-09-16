@@ -1,15 +1,3 @@
- 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-edm4nn/edm4nn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # Hi, I'm @edm4nn 👋
 
 ## About Me 👁️‍🗨️
@@ -19,8 +7,8 @@ I thrive in solving complex problems and creating efficient, scalable solutions.
 
 ## What I Do
 - 🔧 **Technologies**: [Hackrf One, Esp32, Pwnagotchi]
-- 🌐 **Projects**: [Penetration]
-- 🚀 **Current Focus**: [Find a solution for cybersecurity enthusiast and I'm interesting for penetration test]
+- 🌐 **Projects**: []
+- 🚀 **Current Focus**: [Cybersecurity, Penetration test]
   
 ## Skills
 Here are some of the skills I've developed through my experience:
