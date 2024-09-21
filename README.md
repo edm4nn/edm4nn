@@ -1,9 +1,9 @@
 # Hi, I'm @edm4nn 👋
 
 ## About Me 👁️‍🗨️
-I am a passionate [Your Profession or Title, e.g] with a focus on [your areas of expertise, e.g., backend development, data analytics, machine learning]. Over the years, I've worked on a variety of projects that have allowed me to grow my skills in ].
+I am a passionate IT administrator with a focus on backend development, data analytics, and machine learning. Over the years, I’ve worked on a variety of projects that have allowed me to grow my skills in web programming, open-source contributions, 3D printing, and finding innovative solutions for Wi-Fi networks.
 
-I thrive in solving complex problems and creating efficient, scalable solutions. My journey in tech started [mention briefly how/when you started], and since then, I've contributed to various projects in [mention specific fields, e.g., web development, open source, AI, etc.].
+I thrive on solving complex problems and creating efficient, scalable solutions. My journey in tech started several years ago, and since then, I've contributed to numerous projects across web development, open-source communities, and more. With a love for exploring cutting-edge technologies and hands-on experience in both hardware and software, I continuously seek to improve and expand my expertise.
 
 ## What I Do
 - 🔧 **Technologies**: [Hackrf One, Esp32, Pwnagotchi]
