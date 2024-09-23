@@ -21,8 +21,12 @@
 
 * 💻 Developing tools and project for cybersecurity
 
-* :electron: Open-source hardware platforms enthusiast 
+* 💾 Open-source hardware platforms enthusiast
+  
+* 🚀 Raspberry. Arduino, Esp32, HackRFOne
+  
 </p>
+
 
 
 
