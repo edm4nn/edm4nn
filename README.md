@@ -1,5 +1,5 @@
 
-# 👋 Hi! I'm [edm4nn]
+# 👋 Hi! I'm edm4nn
 
 ### 💻 IT Administrator | Open Source Enthusiast | Maker
 
