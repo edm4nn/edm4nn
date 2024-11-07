@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I manage IT systems and am passionate about open-s
 
 - **Open-source development:** I contribute to open-source projects and develop custom solutions.
 - **3D Printing:** I design and modify 3D models for various projects.
-- **Programming:** I primarily work with **Java**, but I also have experience with **Python**, **JavaScript**, and **Bash**.
+- **Programming:** I primarily work with **Java**, but I also have experience with **Python**, and **Bash**.
 - **Hardware Projects:** I utilize platforms such as **Raspberry Pi**, **ESP32**, and **SIM7600X** to develop integrated solutions.
 
 ## 🌱 What I'm Learning
